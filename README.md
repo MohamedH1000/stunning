@@ -102,4 +102,4 @@ Here are some ideas to extend this project:
 MIT
 
 
-link of the look vedio: https://files.fm/f/f7bcbwcjhc
+link of the loom vedio: https://files.fm/f/f7bcbwcjhc
