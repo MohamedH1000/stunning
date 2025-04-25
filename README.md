@@ -10,9 +10,6 @@ A beautiful, responsive hero section with inline editing capabilities and AI-sim
 - 📱 Fully responsive across all device sizes
 - 🎨 Clean, accessible UI with Tailwind CSS
 
-## Demo
-
-![Hero Section Demo](/placeholder.svg?height=400&width=800&text=Hero+Section+Demo)
 
 ## Technologies Used
 
@@ -101,5 +98,7 @@ Here are some ideas to extend this project:
 - Add animation effects
 
 ## License
+
+link of the look vedio: https://files.fm/f/f7bcbwcjhc
 
 MIT
